@@ -11,6 +11,7 @@ int main(){
 	c is clothing store
 	h is hairdresser
 	m is market*/
+	/*Making a branch */
 	cout<<"do you have a face mask ?"<<endl;
 	cin>>mask;
 	
